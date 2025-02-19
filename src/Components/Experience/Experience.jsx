@@ -96,7 +96,7 @@ const Experience = () => {
               </div>
 
               <p className="text-sm leading-tight font-thin">
-                May 2022 - Present
+                Jan 2022 - Present
               </p>
               <ul className="text-sm p-2" style={{ listStyleType: "disc" }}>
                 <li>
